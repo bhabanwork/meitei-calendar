@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "generated": "2026-09-07T07:34:37Z",
+  "years": {
+    "2025": {
+      "bytes": 228356,
+      "file": "meitei_calendar_2025.json",
+      "sha256": "e431d4b3b9c75b01dde0615e6884fea3d29301d52f3f163f796f64429eac8a04"
+    },
+    "2026": {
+      "bytes": 228059,
+      "file": "meitei_calendar_2026.json",
+      "sha256": "2dee440f290fa28de6845e80182c2d52fdf6fa0a2b711cc5550cf0c378f60e92"
+    },
+    "2027": {
+      "bytes": 227177,
+      "file": "meitei_calendar_2027.json",
+      "sha256": "0f6b636f3854d145a375406a362e88422bc008a600e62e962a43a039849aa3b6"
+    }
+  }
+}
