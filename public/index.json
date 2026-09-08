@@ -1,21 +1,26 @@
 {
   "format": 1,
-  "generated": "2026-09-07T07:34:37Z",
+  "generated": "2026-09-08T02:55:46Z",
   "years": {
     "2025": {
-      "bytes": 228356,
+      "bytes": 228357,
       "file": "meitei_calendar_2025.json",
-      "sha256": "e431d4b3b9c75b01dde0615e6884fea3d29301d52f3f163f796f64429eac8a04"
+      "sha256": "23cf8ae2e0ab164b2f7cc957b69d6f1a8794c72082e1e6de5042801a0aa1ae5b"
     },
     "2026": {
-      "bytes": 228059,
+      "bytes": 228060,
       "file": "meitei_calendar_2026.json",
-      "sha256": "2dee440f290fa28de6845e80182c2d52fdf6fa0a2b711cc5550cf0c378f60e92"
+      "sha256": "180cd35ef7aba45a7c571a5dc663aab5fc7925a0a4bd9451a243daff42a40a13"
     },
     "2027": {
-      "bytes": 227177,
+      "bytes": 227178,
       "file": "meitei_calendar_2027.json",
-      "sha256": "0f6b636f3854d145a375406a362e88422bc008a600e62e962a43a039849aa3b6"
+      "sha256": "49ae776338fe8e7d31750c5c51baf7e150c7dfe709809a78eb44d1fb62b4474a"
+    },
+    "2028": {
+      "bytes": 226986,
+      "file": "meitei_calendar_2028.json",
+      "sha256": "e1eb176a0d2c6cf73122731454d15681642b45905ddac6af46940c6c827f0bf8"
     }
   }
 }
